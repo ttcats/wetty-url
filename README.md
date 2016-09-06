@@ -115,9 +115,10 @@ This will start wetty on port 3000. If you want to change the port or redirect s
 Change
 -----------------------------
 
-pp.js,现在可以使用两个参数来登陆服务器,登陆用户名和登陆主机,更有利于多主机的web访问
-例如请求url
+pp.js,现在可以使用两个参数来登陆服务器,登陆用户名和登陆主机,更有利于多主机的web访问.
+例如请求url.
      http://192.168.1.5:3001/wetty/ssh/tomcat/10.7.250.106
-以tomcat用户登陆192.168.1.5
+     
+以tomcat用户登陆192.168.1.5.
 
 安装和启动方式不变
