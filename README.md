@@ -121,4 +121,5 @@ Change
      
 以tomcat用户登陆192.168.1.6<br>
 
-安装和启动方式不变
+安装和启动方式不变<br>
+su tomcat -c 'node /opt/wetty/app.js -p 3001'
