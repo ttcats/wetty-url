@@ -1,4 +1,4 @@
-Wetty = Web + tty(change)
+Wetty = Web + tty(更改了url级目录,详情参考文档最后)
 -----------------
 
 Terminal over HTTP and HTTPS. Wetty is an alternative to
