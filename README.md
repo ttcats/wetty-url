@@ -1,4 +1,4 @@
-Wetty = Web + tty
+Wetty = Web + tty(change)
 -----------------
 
 Terminal over HTTP and HTTPS. Wetty is an alternative to
