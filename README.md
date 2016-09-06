@@ -109,3 +109,15 @@ Install wetty globally with -g option:
 This will start wetty on port 3000. If you want to change the port or redirect stdout/stderr you should change the last line in `wetty.conf` file, something like this:
 
     exec sudo -u root wetty -p 80 >> /var/log/wetty.log 2>&1
+
+
+
+
+###################CHANGE#####################
+
+pp.js,现在可以使用两个参数来登陆服务器,登陆用户名和登陆主机,更有利于多主机的web访问
+例如请求url
+http://192.168.1.5:3001/wetty/ssh/tomcat/10.7.250.106
+以tomcat用户登陆10.7.250.106
+
+安装和启动方式不变
